@@ -1,0 +1,57 @@
+# Receta
+
+Este proyecto es una implementación en Python que permite gestionar una receta, incluyendo la visualización de ingredientes e instrucciones, así como la capacidad de calcular la cantidad de ingredientes según el número de raciones deseadas, la guarda en un archivo JSON, y también incluye archivos HTML y CSS para presentar la receta de manera visualmente atractiva.
+Descripción General
+El proyecto consiste en:
+Código Python: Define una receta de arroz blanco, la guarda en un archivo JSON y permite calcular ingredientes según el número de raciones.
+Archivo HTML: Presenta la receta en un formato web.
+Archivo CSS: Estiliza el contenido HTML para mejorar su apariencia.
+Estructura del Proyecto
+1. Código Python
+El código Python realiza las siguientes funciones:
+Define la receta de arroz blanco.
+Guarda la receta en un archivo receta_arroz.json.
+Proporciona una clase RecetaArrozBlanco con métodos para mostrar ingredientes, instrucciones y calcular cantidades según las raciones deseadas.
+
+## Tabla de Contenidos
+
+- [Características](#características)
+- [Tecnologías Usadas](#tecnologías-usadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Estructura del Código](#estructura-del-código)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Características
+
+- Guarda la receta en un archivo JSON.
+- Muestra los ingredientes y las instrucciones para preparar arroz blanco.
+- Permite calcular los ingredientes necesarios según el número de raciones deseadas.
+
+## Tecnologías Usadas
+
+- Python 3.x
+- Módulo `json` para manipulación de archivos JSON.
+
+## Instalación
+
+Para ejecutar este proyecto, asegúrate de tener Python 3.x instalado en tu sistema. Luego, sigue estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+
+Navega al directorio del proyecto:
+bash
+cd nombre_del_proyecto
+
+Uso
+Ejecuta el script principal:
+bash
+python nombre_del_archivo.py
+
+
+Sigue las instrucciones en pantalla para interactuar con la receta.
+Conclusión
+Este código es una herramienta útil para quienes deseen preparar arroz blanco, también se puede a futuro modificar para otras recetas (esa es mi idea) permitiendo no solo visualizar los ingredientes e instrucciones, sino también ajustar las cantidades según las necesidades específicas del usuario. ¡Disfruta cocinando!

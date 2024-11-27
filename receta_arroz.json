@@ -1,0 +1,19 @@
+{
+    "nombre": "Arroz Blanco",
+    "raciones": 4,
+    "ingredientes": {
+        "arroz blanco de grano mediano o largo": "1 taza o 200 g",
+        "agua": "2 tazas o 500 ml",
+        "sal": "1/2 cucharadita o 3 g",
+        "aceite o manteca": "1 cucharada o 15 g"
+    },
+    "instrucciones": [
+        "Enjuaga el arroz bajo agua fría hasta que el agua salga clara.",
+        "En una olla, calienta el aceite o manteca a fuego medio.",
+        "Agrega el arroz y sofríe durante unos minutos hasta que esté ligeramente dorado.",
+        "Añade el agua y la sal a la olla.",
+        "Cuando el agua comience a hervir, reduce el fuego al mínimo y tapa la olla.",
+        "Cocina durante 18-20 minutos o hasta que el agua se haya absorbido.",
+        "Retira del fuego y deja reposar durante 5 minutos antes de servir."
+    ]
+}
